@@ -23,7 +23,7 @@
 1.Binary Classification
 
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+![ฺBi-lstm Encoder Diagram](https://user-images.githubusercontent.com/62151531/147274342-aa38b37c-2a1f-4840-bf8a-fc4e8090c153.jpg)
 
 2.Siamese Network
 
