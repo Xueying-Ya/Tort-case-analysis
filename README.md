@@ -20,14 +20,14 @@
 <!-- GETTING STARTED -->
 ## โมเดล
 
- <li><a href="#built-with">1) Binary Classification</a></li>
+<h>1) Binary Classification</h>
 
 
 ![ฺBinary classification Diagram](https://user-images.githubusercontent.com/62151531/147278663-b0d5b0c4-31de-4da2-89c0-2e565f2536ab.jpg)
 
 
 
-<li><a href="#built-with">2) Siamese Network</a></li>
+<h>2) Siamese Network</h>
 
 
 ![Siamese Network Diagram](https://user-images.githubusercontent.com/62151531/147278770-801beae1-581c-459f-998c-0700530b31d3.jpg)
