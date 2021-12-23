@@ -20,10 +20,14 @@
 <!-- GETTING STARTED -->
 ## โมเดล
 
+
+
 <h>1) Binary Classification</h>
 
 
 ![ฺBinary classification Diagram](https://user-images.githubusercontent.com/62151531/147278663-b0d5b0c4-31de-4da2-89c0-2e565f2536ab.jpg)
+
+
 
 
 
